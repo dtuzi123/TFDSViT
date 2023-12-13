@@ -25,18 +25,10 @@ Vision Transformers (ViTs) represent self-attention-based network backbones that
 
 >📋 Python xxx.py, the model will be automatically trained and then report the results after the training.
 
->📋 Different parameter settings of OCM would lead different results and we also provide different settings used in our experiments.
+>📋 Different parameter settings of OCM would lead to different results and we also provide different settings used in our experiments.
 
 # BibTex
 >📋 If you use our code, please cite our paper as:
 
-@inproceedings{ye2022continual,
-  title={Continual variational autoencoder learning via online cooperative memorization},
-  author={Ye, Fei and Bors, Adrian G},
-  booktitle={European Conference on Computer Vision},
-  pages={531--549},
-  year={2022},
-  organization={Springer}
-}
 
 
